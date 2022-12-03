@@ -67,4 +67,6 @@ A visão esquemática dos blocos lógicos podem ser vizualidas [aqui](https://gi
 
 ## Resultado:
 
-O ```.gif``` abaixo mostra o processo automatizado em execução.
+O vídeo abaixo mostra o processo automatizado em execução.
+
+https://user-images.githubusercontent.com/44499744/205461349-aa35edc6-34fd-4c8e-af85-72195f9e1731.mp4
